@@ -1,0 +1,8 @@
+breakthrough	D1	D3	D5	D6
+materi	D1	D2	D3
+research	D1	D2	D2	D3	D4	D5	D6
+new	D2	D3	D3	D4
+student	D2	D4
+approach	D3
+challeng	D4	D6
+barrier	D5

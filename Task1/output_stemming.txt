@@ -1,0 +1,6 @@
+D1	breakthrough materi research
+D2	new research materi research student
+D3	new approach research new breakthrough materi
+D4	new challeng research student
+D5	breakthrough research barrier
+D6	challeng breakthrough research
